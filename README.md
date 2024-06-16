@@ -4,14 +4,13 @@
 #### I have currently a Graduate of BSc (Hons) in Games Development at the University of Wales Trinity Saint David. 
 ![I have currently a Graduate of BSc (Hons) in Games Development at the University of Wales Trinity Saint David.](https://github.com/Bubbles76/Bubbles76/blob/main/blue-abstract-banner-background_181182-20850.jpg)
 
-
-Skills: 
--Confident programming skills in C++
--C# Problem Solving
--Time Management	
--Communication
--Trustworthy
--Patience and Understanding
+###Skills:
+- Confident programming skills in C++
+- C# Problem Solving
+- Time Management	
+- Communication
+- Trustworthy
+- Patience and Understanding
 
 - 🌱 I’m currently learning Unreal Engine 5.4 
 - 📫 How to reach me: www.linkedin.com/in/rebecca-ryall-b286a11ba 
