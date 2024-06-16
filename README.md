@@ -3,7 +3,8 @@
 ## Rebecca Ryall Aspiring Gameplay Developer
 
 ### Hi there 👋
-#### I am  currently a Graduate of BSc (Hons) in Games Development from the University of Wales Trinity Saint David. Excited & Eager to Start My Gaming Industry Career Currently Enjoying Gameplay Programming in Unreal Engine 5.4 
+#### I am  currently a Graduate of BSc (Hons) in Games Development from the University of Wales Trinity Saint David.
+#### Excited to Start My Gaming Industry Career, Currently Enjoying Gameplay Programming in Unreal Engine 5.4. 
 
 Skills:
 - 👨‍💻 Confident programming skills in C++,c#
