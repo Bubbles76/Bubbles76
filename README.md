@@ -1,8 +1,8 @@
 ![Graduate of BSc (Hons) in Games Development](https://github.com/Bubbles76/Bubbles76/blob/main/blue-abstract-banner-background_181182-20850.jpg)
 
-## Hi there 👋
+## Rebecca Ryall Aspiring Gameplay Developer
 
-### I'm Becky
+### Hi there 👋
 #### I am  currently a Graduate of BSc (Hons) in Games Development from the University of Wales Trinity Saint David. Excited & Eager to Start My Gaming Industry Career Currently Enjoying Gameplay Programming in Unreal Engine 5.4 
 
 Skills:
