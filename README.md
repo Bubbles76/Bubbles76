@@ -3,7 +3,7 @@
 ### Rebecca Ryall
 #### I have currently a Graduate of BSc (Hons) in Games Development at the University of Wales Trinity Saint David. 
 ![I have currently a Graduate of BSc (Hons) in Games Development at the University of Wales Trinity Saint David. ]
-(https://raw.githubusercontent.com/Bubbles76/Bubbles76/main/blue-abstract-banner-background_181182-20850.webp)
+(https://github.com/Bubbles76/Bubbles76/blob/main/blue-abstract-banner-background_181182-20850.webp)
 
 
 Skills: Confident programming skills in C++, C# Problem Solving, Time Management,	Communication, Trustworthy, Patience and Understanding
