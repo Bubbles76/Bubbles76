@@ -14,12 +14,13 @@ Skills:
 --------------------------------------------------
 - 🌱 I’m currently learning Unreal Engine 5.4 
 - 📫 How to reach me: www.linkedin.com/in/rebecca-ryall-b286a11ba 
-
+------------------------------------------------------------------
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bubbles76)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bubbles76)](https://github.com/anuraghazra/github-readme-stats)
 
+----------------------------------------------------------------------------------------------
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bubbles76&show_icons=true)  
 <!--
 **Bubbles76/Bubbles76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
