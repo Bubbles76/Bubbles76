@@ -7,7 +7,7 @@
 #### Excited to Start My Gaming Industry Career, Currently Enjoying Gameplay Programming in Unreal Engine 5.4. 
 
 Skills:
-- 👨‍💻 Confident programming skills in C++,c#
+- 👨‍💻 Confident programming skills in C++,C#
 - ⁉️ Problem Solving
 - ⌚Time Management	
 - 🗣️great Communication
