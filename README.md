@@ -8,7 +8,7 @@
 
 
 ----------------------------------------------------------------------------------------------
-![<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='250'>](https://github.com/Bubbles76) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='250'>](https://github.com/Bubbles76) 
 
 <!--
 **Bubbles76/Bubbles76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
